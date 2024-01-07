@@ -6,11 +6,13 @@ Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.2),
+    deSolve,
     golem (>= 0.4.1),
-    shiny (>= 1.7.5)
+    shiny (>= 1.7.5),
+    shinydashboard
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Suggests: 
     spelling,
     testthat (>= 3.0.0)
