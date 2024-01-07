@@ -1,4 +1,4 @@
-Package: epidemodeller
+Package: EpideModelleR
 Title: Epidemiological Modelling in R
 Version: 0.0.0.9000
 Authors@R: person('Benjamin', 'Atkins', email = 'atkinsbd@gmail.com', role = c('cre', 'aut'))
